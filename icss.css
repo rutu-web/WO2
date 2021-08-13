@@ -176,6 +176,9 @@ center{
         width: 33.3%;
         margin: auto;
     }
+    .small{
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px ) and (max-width: 1400px)
@@ -212,6 +215,9 @@ center{
         width: 33.3%;
         margin: auto;
     }
+    .small{
+        display: none;
+    }
     
 }
 
@@ -246,4 +252,16 @@ center{
     nav{
         display: none;
     }
+  .small{
+      text-align: center;
+      background: #555555;
+
+  }
+  .small li a{
+      color: bisque;
+      font-size: 18px;
+      text-decoration: none;
+  }
+
+
 }
