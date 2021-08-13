@@ -130,11 +130,13 @@ input[type=submit]{
     text-align: center;
 
 }
-.last1 li{
+.last1 li, .last1 li a {
     list-style-type: none;
     color: white;
     font-size: 25px;
+    text-decoration: none;
 }
+
 .mainlast{
     background-color: gray;
 }
