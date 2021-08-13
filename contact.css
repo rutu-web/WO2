@@ -89,9 +89,11 @@ center{
 }
 
 .b{
-    text-align: center;
+    width: 70%;
+    margin: auto;
     font-size: 30px;
     color: brown;
+    text-align: center;
 }
 
 
