@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+
 }
 .headclass{
     background-color: #555555;
@@ -100,6 +101,10 @@ text-align: right;
     display: flex;
     flex-wrap: wrap;
 
+}
+.inevents img{
+    border: 3px solid black;
+    border-radius: 25%;
 }
 .form{
     width: 70%;
